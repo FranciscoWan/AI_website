@@ -1,3 +1,7 @@
+| Site | Link |
+|------|------|
+| **Anzol na Tela** | [Anzol na Tela](https://anzol-na-tela.lovable.app/)|
+
 # Welcome to your Lovable project
 
 ## Project info
